@@ -1,16 +1,20 @@
-### Hi there 👋
+# 안녕하세요, 송시경입니다. 👋
 
-<!--
-**sika7492/sika7492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 소개
 
-Here are some ideas to get you started:
+- 🌱 저는 현재 AI에 대해 배우고 있습니다. 특히 컴퓨터 비전을 활용한 AI에 큰 흥미를 가지고 있습니다.
+- 👯 저는 컴퓨터 비전 프로젝트에 참여하고 싶습니다.
+- 🤔 저는 컴퓨터 비전과 관련된 문제에 대해 도움을 필요로 합니다.
+- 💬 저에게 컴퓨터 비전이나 AI에 대해 물어보세요.
+- 📫 저에게 연락하는 방법: s006688@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 이번 주에 제가 가장 많이 사용한 언어
+
+!Top Langs
+
+## 🏆 트로피
+
+!trophy
+
+
