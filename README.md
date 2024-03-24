@@ -13,8 +13,5 @@
 
 !Top Langs
 
-## 🏆 트로피
-
-!trophy
 
 
