@@ -17,4 +17,8 @@ Python
 * Da-Ipp : https://github.com/bluenight12/da-ipp
 
 
+## 포트폴리오
+
+* notion : https://laced-rule-bb6.notion.site/bf9a3015ff6a4df6ba58c346671dcf7a?pvs=4
+
 
