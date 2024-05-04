@@ -15,6 +15,7 @@ Python
 ## 참여한 프로젝트 GitHub
 
 * Da-Ipp : https://github.com/bluenight12/da-ipp
+* AIW : https://github.com/bluenight12/AIW/
 
 
 ## 포트폴리오
